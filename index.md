@@ -1,3 +1,5 @@
+# Do you Know Myanmar?
+
 ## Privacy Policy
 
 Ritario Ltd built the Do you know Myanmar? app as an Ad Supported app. This SERVICE is provided by Ritario Ltd at no cost and is intended for use as is.
